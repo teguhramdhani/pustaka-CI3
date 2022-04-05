@@ -1,0 +1,35 @@
+[33mcommit 7d4ca65e14e90f8c8fd46e9c6f5f4be7f5daba0e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: teguhramdhani <teguhramdhani062@gmail.com>
+Date:   Wed Mar 30 20:03:02 2022 +0700
+
+    Memindahkan Folder assets/css/stylebuku.css ke dalam folder pustaka-booking, memperbaiki tanda kutip pada file controllers/Web.php, views/v_header, views/v_index, views/v_footer. memperbaiki link folder css pada views/v_index.php
+
+[33mcommit cbd0cd075a395c21461538a54aed9204467a5032[m[33m ([m[1;31mpustakac3/master[m[33m)[m
+Author: teguhramdhani <teguhramdhani062@gmail.com>
+Date:   Tue Mar 29 14:39:28 2022 +0700
+
+    memodifikasi file config/autoload.php, memodifikasi file cofig/config/php, menambahkan file controllers/Matakuliah.php & Web.php, menambahkan file views/v_footer.php, v_header.php, &v_index.php, serta menambahkan folder assets dan isinya css/stylebuku.css, menambahkan file view/view-data-matakuliah.php dan view-form-matakuliah.php
+
+[33mcommit e0eb9dbf8d2ee878a5a73dc20567f88e92f87312[m
+Author: teguhramdhani <teguhramdhani062@gmail.com>
+Date:   Tue Mar 22 20:06:54 2022 +0700
+
+    menambahkan file controllers/latihan1.php, models/Model_latihan1.php, views/View-latihan.php
+
+[33mcommit 615dbc7095ec2ccd6e06dc3ce2c06c00eefc5897[m
+Author: teguhramdhani <teguhramdhani062@gmail.com>
+Date:   Tue Mar 22 15:05:15 2022 +0700
+
+    menambahkan file htaccess
+
+[33mcommit 174f1f4a09a76313420efdb6fc4d3bc34b8a38c5[m
+Author: teguhramdhani <teguhramdhani062@gmail.com>
+Date:   Tue Mar 22 14:50:05 2022 +0700
+
+    menambahkan file Contoh1
+
+[33mcommit f8c1267bed031d48dc0621591a376faea639045f[m
+Author: teguhramdhani <teguhramdhani062@gmail.com>
+Date:   Tue Mar 22 13:41:09 2022 +0700
+
+    menambahkan file pustaka-booking beserta isinya
